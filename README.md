@@ -14,9 +14,4 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 
 ### Technologies and Tools
 
-| Technologies | Tools |
-|-|-|
-| ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=000000&style=flat-square) | <img src="https://simpleicons.org/icons/react.svg" width="15px" /> React, <img src="https://simpleicons.org/icons/redux.svg" width="15px" /> Redux, <img src="https://simpleicons.org/icons/graphql.svg" width="15px" /> GraphQL, <img src="https://simpleicons.org/icons/node-dot-js.svg" width="15px" /> Node.js |
-| ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff&style=flat-square) ||
-| IDE | <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="15px" /> VS Code |
-| Testing | <img src="https://simpleicons.org/icons/jest.svg" width="15px" /> Jest |
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square) 
