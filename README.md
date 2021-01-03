@@ -20,7 +20,3 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 4. 💪 Opened PR [#4586](https://github.com/simple-icons/simple-icons/pull/4586) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 5. 💪 Opened PR [#4584](https://github.com/simple-icons/simple-icons/pull/4584) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamrusted&show_icons=true&hide_rank=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adamrusted)
