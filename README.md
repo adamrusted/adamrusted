@@ -14,9 +14,9 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5399](https://github.com/simple-icons/simple-icons/pull/5399) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#5399](https://github.com/simple-icons/simple-icons/issues/5399) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#5394](https://github.com/simple-icons/simple-icons/issues/5394) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5054](https://github.com/simple-icons/simple-icons/issues/5054) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#5426](https://github.com/simple-icons/simple-icons/pull/5426) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#1](https://github.com/dice20-uk/character-helper-5e/pull/1) in [dice20-uk/character-helper-5e](https://github.com/dice20-uk/character-helper-5e)
+2. 💪 Opened PR [#1](https://github.com/dice20-uk/character-helper-5e/pull/1) in [dice20-uk/character-helper-5e](https://github.com/dice20-uk/character-helper-5e)
+3. 🗣 Commented on [#5438](https://github.com/simple-icons/simple-icons/issues/5438) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5346](https://github.com/simple-icons/simple-icons/issues/5346) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#5438](https://github.com/simple-icons/simple-icons/issues/5438) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
