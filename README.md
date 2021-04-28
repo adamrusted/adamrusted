@@ -12,6 +12,8 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 
 📫 *How to reach me:* email me at `hello at adamrusted dot me` or [open an issue](https://github.com/adamrusted/adamrusted/issues/new) on this repo.
 
+<a href="https://www.buymeacoffee.com/adamrusted" target="_blank"><img src="https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=adamrusted&color=FFDD00&logo=buy-me-a-coffee&logoColor=white"/></a>
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5549](https://github.com/simple-icons/simple-icons/issues/5549) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
