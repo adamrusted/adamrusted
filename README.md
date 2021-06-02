@@ -29,9 +29,9 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5822](https://github.com/simple-icons/simple-icons/issues/5822) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#5822](https://github.com/simple-icons/simple-icons/issues/5822) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#5492](https://github.com/simple-icons/simple-icons/issues/5492) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5593](https://github.com/simple-icons/simple-icons/issues/5593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#122](https://github.com/simple-icons/simple-icons-font/pull/122) in [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font)
+1. 🗣 Commented on [#5593](https://github.com/simple-icons/simple-icons/issues/5593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#5492](https://github.com/simple-icons/simple-icons/issues/5492) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#5201](https://github.com/simple-icons/simple-icons/issues/5201) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5824](https://github.com/simple-icons/simple-icons/issues/5824) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Closed issue [#5823](https://github.com/simple-icons/simple-icons/issues/5823) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
