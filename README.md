@@ -26,12 +26,3 @@ I'm a front-end developer living in Coventry, United Kingdom that has recently s
 
 ### Server
 ![Express](https://img.shields.io/static/v1?logo=express&label=&message=EXPRESS&style=for-the-badge&color=000000&logoColor=white) ![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=NGINX&style=for-the-badge&color=009639&logoColor=white) ![Node.js](https://img.shields.io/static/v1?logo=node-dot-js&label=&message=NODE.JS&style=for-the-badge&color=339933&logoColor=white)
-
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adamrusted/puzzle-bobble/pull/1) in [adamrusted/puzzle-bobble](https://github.com/adamrusted/puzzle-bobble)
-2. 💪 Opened PR [#1](https://github.com/adamrusted/puzzle-bobble/pull/1) in [adamrusted/puzzle-bobble](https://github.com/adamrusted/puzzle-bobble)
-3. 🗣 Commented on [#5394](https://github.com/simple-icons/simple-icons/issues/5394) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5782](https://github.com/simple-icons/simple-icons/issues/5782) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#87](https://github.com/simple-icons/simple-icons-website/issues/87) in [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website)
-<!--END_SECTION:activity-->
