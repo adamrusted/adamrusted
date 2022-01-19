@@ -4,7 +4,7 @@
 
 🌱 *Currently learning:* Dynamics 365, Power Automate, Power BI
 
-🎯 *Next steps:* First major React project
+🎯 *Next steps:* 
 
 🤝 *Collaborations:* I'd love to work on a project with you! Contact me for more info!
 
