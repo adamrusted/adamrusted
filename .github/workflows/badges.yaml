@@ -15,6 +15,8 @@ jobs:
         uses: pemtajo/badge-readme@2.3.0
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update badges from credly"
+          COMMIT_MESSAGE: "🎓 Update badges from credly"
           CREDLY_USER: adam-rusted
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
+          NUMBER_LAST_BADGES: 4
+          BADGE_SIZE: 80
