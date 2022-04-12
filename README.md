@@ -12,6 +12,7 @@
 
 <a href="https://www.buymeacoffee.com/adamrusted" target="_blank"><img src="https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=adamrusted&color=FFDD00&logo=buy-me-a-coffee&logoColor=white"/></a>
 
+## Certifications
 <!--START_SECTION:badges-->
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/c44d72cb-e3b3-43bb-a54e-562505f127f5 "Microsoft Certified: Azure Fundamentals")
