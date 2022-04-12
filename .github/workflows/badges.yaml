@@ -18,5 +18,3 @@ jobs:
           COMMIT_MESSAGE: "🎓 Update badges from credly"
           CREDLY_USER: adam-rusted
           CREDLY_SORT: RECENT
-          NUMBER_LAST_BADGES: 4
-          BADGE_SIZE: 80
