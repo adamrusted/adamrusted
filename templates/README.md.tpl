@@ -1,6 +1,8 @@
 ## Hi there, I'm Adam! 👋
 
 [![](https://img.shields.io/badge/-@adamrusted-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
+[![](https://img.shields.io/badge/-@adamrusted-%23833AB4?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/adamrusted/)
+[![](https://img.shields.io/badge/-@adamrusted-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adamrusted/)
 
 ## Activity
 
