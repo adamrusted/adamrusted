@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 
 #### NEXT UP
+![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 ![](https://img.shields.io/badge/Power%20Platform-Power%20Pages-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
 ![](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=power-virtual-agents&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Desktop%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=0066FF)
