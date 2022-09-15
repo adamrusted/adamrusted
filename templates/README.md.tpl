@@ -18,19 +18,23 @@
 
 ###### Retired - I won't work on these any more!
 
+### BADGE COLLECTOR
+
+badges_tag
+
 ### RECENT ACTIVITY
 
-#### Currently Working On
+#### WORKING ON
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
 
-#### Starred Repos
-{{range recentStars 10}}
+#### STARRED
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
   {{- end}}
 
-#### Most Recent Followers
+#### FOLLOWED BY
 {{range followers 5}}
 - [{{.Login}}]({{.URL}}) - {{.Name}}
   {{- end}}
@@ -39,7 +43,3 @@
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
   {{- end}}
-
-### BADGE COLLECTOR
-
-badges_tag
