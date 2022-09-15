@@ -8,15 +8,16 @@
 ### COMMUNITY
 
 ### CURRENT STACK
+![](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Platform-Canvas%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
 ![](https://img.shields.io/badge/Power%20Platform-Model--Driven%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
 ![](https://img.shields.io/badge/Power%20Automate-Cloud%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=0066FF)
 ![](https://img.shields.io/badge/Dynamics%20365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 ![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 
-
 #### NEXT UP
 ![](https://img.shields.io/badge/Power%20Platform-Power%20Pages-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
+![](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=power-virtual-agents&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Desktop%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=0066FF)
 ![](https://img.shields.io/badge/Dynamics%20365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 ![](https://img.shields.io/badge/Dynamics%20365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
