@@ -46,8 +46,3 @@ badges_tag
 {{range followers 5}}
 - [{{.Login}}]({{.URL}}) - {{.Name}}
   {{- end}}
-
-#### My Recently Created Repos
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
