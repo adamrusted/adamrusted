@@ -15,7 +15,7 @@
 
 
 #### NEXT UP
-![](https://img.shields.io/badge/Power%20Platform-Power%20Pages-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=742774)
+![](https://img.shields.io/badge/Power%20Platform-Power%20Pages-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
 ![](https://img.shields.io/badge/Dynamics%20365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 ![](https://img.shields.io/badge/C%23-%23eee.svg?style=for-the-badge&logo=c-sharp&logoColor=239120)
 
