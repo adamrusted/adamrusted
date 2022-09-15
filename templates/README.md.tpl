@@ -8,9 +8,9 @@
 ### COMMUNITY
 
 ### CURRENT STACK
-![](https://img.shields.io/badge/Power%20Platform-Canvas%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white=labelColor=742774)
-![](https://img.shields.io/badge/Power%20Platform-Model--Driven%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white=labelColor=742774)
-![](https://img.shields.io/badge/Dynamics%20365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=white=labelColor=002050)
+![](https://img.shields.io/badge/Power%20Platform-Canvas%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
+![](https://img.shields.io/badge/Power%20Platform-Model--Driven%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&logoColor=white&labelColor=742774)
+![](https://img.shields.io/badge/Dynamics%20365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 ![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=002050)
 
 
