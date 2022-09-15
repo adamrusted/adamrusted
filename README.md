@@ -1,4 +1,4 @@
-# Hi there, I'm ![Adam Rusted](https://www.adamrusted.me/)! 👋
+# Hi there, I'm [Adam Rusted](https://www.adamrusted.me/)! 👋
 
 ### SOCIALS
 [![](https://img.shields.io/badge/-@adamrusted-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
