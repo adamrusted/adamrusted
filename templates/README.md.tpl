@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### OBVIOUSLY
-![](https://img.shields.io/badge/Javascript-%236A6C6E.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ###### "Sunsetting" Tech (Working to move people away from this!)
 
