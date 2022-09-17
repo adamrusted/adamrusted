@@ -1,8 +1,5 @@
 # Hi there, I'm [Adam Rusted](https://www.adamrusted.me/)! 👋
 
-### COMMUNITY
-I've started taking part in the Dynamics 365 and Power Platform Community by joining the organiser team at the [Birmingham D365PPUG](https://www.d365ppug.com/etn/birmingham-dynamics-365-power-platform-user-group-in-person-event-10th-november-2022/).
-
 ### TECHNOLOGIES & TOOLS
 
 #### Development
@@ -95,7 +92,7 @@ badges_tag
 - [{{.Login}}]({{.URL}}) - {{.Name}}
   {{- end}}
   
-### GET SOCIAL
+### LETS GET SOCIAL
 [![Discord](https://img.shields.io/badge/Rusty%238438-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/280473140939849739)
 [![Instagram](https://img.shields.io/badge/@adamrusted-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adamrusted/)
 [![LinkedIn](https://img.shields.io/badge/@adamrusted-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamrusted/)
