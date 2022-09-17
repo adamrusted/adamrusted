@@ -16,7 +16,7 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+bnBtPC90aXRsZT48cGF0aCBkPSJNMS43NjMgMEMuNzg2IDAgMCAuNzg2IDAgMS43NjN2MjAuNDc0QzAgMjMuMjE0Ljc4NiAyNCAxLjc2MyAyNGgyMC40NzRjLjk3NyAwIDEuNzYzLS43ODYgMS43NjMtMS43NjNWMS43NjNDMjQgLjc4NiAyMy4yMTQgMCAyMi4yMzcgMHpNNS4xMyA1LjMyM2wxMy44MzcuMDE5LS4wMDkgMTMuODM2aC0zLjQ2NGwuMDEtMTAuMzgyaC0zLjQ1NkwxMi4wNCAxOS4xN0g1LjExM3oiLz48L3N2Zz4=&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+bnBtPC90aXRsZT48cGF0aCBkPSJNMS43NjMgMEMuNzg2IDAgMCAuNzg2IDAgMS43NjN2MjAuNDc0QzAgMjMuMjE0Ljc4NiAyNCAxLjc2MyAyNGgyMC40NzRjLjk3NyAwIDEuNzYzLS43ODYgMS43NjMtMS43NjNWMS43NjNDMjQgLjc4NiAyMy4yMTQgMCAyMi4yMzcgMHpNNS4xMyA1LjMyM2wxMy44MzcuMDE5LS4wMDkgMTMuODM2aC0zLjQ2NGwuMDEtMTAuMzgyaC0zLjQ1NkwxMi4wNCAxOS4xN0g1LjExM3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -72,12 +72,6 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ### BADGE COLLECTOR
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/0e936abf-d5dc-49c4-9680-f56f6dea24e7 "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 
