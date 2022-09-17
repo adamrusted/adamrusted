@@ -49,7 +49,7 @@ badges_tag
   
 #### BLOG POSTS
 {{range rss "https://www.adamrusted.me/rss.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}){:target="_blank"} ({{humanize .PublishedAt}})
 {{- end}}
 
 #### FOLLOWED BY
