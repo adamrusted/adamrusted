@@ -24,7 +24,7 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 
 #### NEXT UP
 ![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=0B53CE)
-![](https://img.shields.io/badge/Power%20Pages-%23eee.svg?style=for-the-badge&logo=power-pages&logoColor=black&labelColor=A493E7)
+![](https://img.shields.io/badge/Power%20Pages-A493E7.svg?style=for-the-badge&logo=power-pages&logoColor=black)
 ![](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=power-virtual-agents&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Desktop%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=0066FF)
 ![](https://img.shields.io/badge/Dynamics%20365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=0B53CE)
