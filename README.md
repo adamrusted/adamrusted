@@ -1,8 +1,5 @@
 # Hi there, I'm [Adam Rusted](https://www.adamrusted.me/)! 👋
 
-### COMMUNITY
-I've started taking part in the Dynamics 365 and Power Platform Community by joining the organiser team at the [Birmingham D365PPUG](https://www.d365ppug.com/etn/birmingham-dynamics-365-power-platform-user-group-in-person-event-10th-november-2022/).
-
 ### TECHNOLOGIES & TOOLS
 
 #### Development
@@ -72,12 +69,6 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ### BADGE COLLECTOR
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/0e936abf-d5dc-49c4-9680-f56f6dea24e7 "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 
@@ -111,7 +102,7 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 - [matthiasgutsch](https://github.com/matthiasgutsch) - Matthias Gutsch
 - [phongapp](https://github.com/phongapp) - Phong
   
-### GET SOCIAL
+### LETS GET SOCIAL
 [![Discord](https://img.shields.io/badge/Rusty%238438-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/280473140939849739)
 [![Instagram](https://img.shields.io/badge/@adamrusted-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adamrusted/)
 [![LinkedIn](https://img.shields.io/badge/@adamrusted-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamrusted/)
