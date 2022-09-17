@@ -12,30 +12,29 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Strapi-2F2E8B.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### WORK STACK
 ![](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Power%20Platform-Canvas%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
-![](https://img.shields.io/badge/Power%20Platform-Model--Driven%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
+![](https://img.shields.io/badge/Power%20Platform-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Cloud%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&labelColor=0066FF&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 
 #### NEXT UP
-![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Pages-A493E7.svg?style=for-the-badge&logo=power-pages&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=power-virtual-agents&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Desktop%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&labelColor=0066FF&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### OBVIOUSLY
 ![](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### "Sunsetting" Tech (Working to move people away from this!)
+![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ###### Retired - I won't work on these any more!
 
