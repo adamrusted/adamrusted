@@ -96,10 +96,9 @@ badges_tag
   {{- end}}
   
 ### GET SOCIAL
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/280473140939849739)
-[![Instagram](https://img.shields.io/badge/-@adamrusted-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adamrusted/)
-[![LinkedIn](https://img.shields.io/badge/-@adamrusted-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamrusted/)
-[![Meetup](https://img.shields.io/badge/Meetup-ED1C40.svg?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/members/362178269/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/adamrusted)
-[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394.svg?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/adamrusted)
+[![Discord](https://img.shields.io/badge/Rusty%238438-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/280473140939849739)
+[![Instagram](https://img.shields.io/badge/@adamrusted-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adamrusted/)
+[![LinkedIn](https://img.shields.io/badge/@adamrusted-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamrusted/)
+[![Reddit](https://img.shields.io/badge/@adamrusted-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/adamrusted)
+[![Sessionize](https://img.shields.io/badge/@adamrusted-1AB394.svg?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/adamrusted)
 [![Twitter](https://img.shields.io/badge/-@adamrusted-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adamrusted)
