@@ -36,7 +36,7 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
-![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=black)
 ![Konva](https://img.shields.io/badge/Konva-0D83CD.svg?style=for-the-badge&logo=konva&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
