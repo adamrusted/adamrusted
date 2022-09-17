@@ -1,11 +1,7 @@
 # Hi there, I'm [Adam Rusted](https://www.adamrusted.me/)! 👋
 
-### SOCIALS
-[![](https://img.shields.io/badge/-@adamrusted-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
-[![](https://img.shields.io/badge/-@adamrusted-%23E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/adamrusted/)
-[![](https://img.shields.io/badge/-@adamrusted-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adamrusted/)
-
 ### COMMUNITY
+I've started taking part in the Dynamics 365 and Power Platform Community by joining the organiser team at the [Birmingham D365PPUG](https://www.d365ppug.com/etn/birmingham-dynamics-365-power-platform-user-group-in-person-event-10th-november-2022/).
 
 ### CURRENT STACK
 ![](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -56,3 +52,8 @@ badges_tag
 {{range followers 5}}
 - [{{.Login}}]({{.URL}}) - {{.Name}}
   {{- end}}
+  
+### SOCIALS
+[![](https://img.shields.io/badge/-@adamrusted-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
+[![](https://img.shields.io/badge/-@adamrusted-%23E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/adamrusted/)
+[![](https://img.shields.io/badge/-@adamrusted-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adamrusted/)
