@@ -37,22 +37,22 @@ badges_tag
 
 ### RECENT ACTIVITY
 
-#### WORKING ON
+#### 🧑🏻‍💻 WORKING ON
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
 
-#### STARRED
+#### ⭐ STARRED
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} ✨
   {{- end}}
   
-#### BLOG POSTS
+#### 📝 BLOG POSTS
 {{range rss "https://www.adamrusted.me/rss.xml" 5}}
-- <a href="{{.URL}}" target="_blank">{{.Title}}</a> ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### FOLLOWED BY
+#### 🤝🏻 FOLLOWED BY
 {{range followers 5}}
 - [{{.Login}}]({{.URL}}) - {{.Name}}
   {{- end}}
