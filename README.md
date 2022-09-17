@@ -13,33 +13,55 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 #### Software
 ![Dynamics 365 (Sales)](https://img.shields.io/badge/Dynamics%20365%20-Sales-EEE.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=0B53CE)
 ![Dynamics 365 (Marketing)](https://img.shields.io/badge/Dynamics%20365%20-Marketing%20(Outbound)-EEE.svg?style=for-the-badge&logo=dynamics-365&logoColor=white&labelColor=0B53CE)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=power-apps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=power-automate&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-088142.svg?style=for-the-badge&logo=dataverse&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![NextJs](https://img.shields.io/badge/NextJs-000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Konva](https://img.shields.io/badge/Konva-0D83CD.svg?style=for-the-badge&logo=konva&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white)
+![Filezilla](https://img.shields.io/badge/Filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=miro&logoColor=white)
+![MS Teams](https://img.shields.io/badge/Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 #### Cloud Platforms
+![Power Platform](https://img.shields.io/badge/Power%20Platform-1CA47D.svg?style=for-the-badge&logo=power-platform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Scaleway](https://img.shields.io/badge/SCALEWAY-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -50,12 +72,6 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ### BADGE COLLECTOR
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/0e936abf-d5dc-49c4-9680-f56f6dea24e7 "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 
@@ -73,7 +89,7 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 - [martynbristow/opensourcepos](https://github.com/martynbristow/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. - 1 ✨
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes - 13445 ✨
 - [dbox/html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink) - :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - 289 ✨
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. - 60658 ✨
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. - 60659 ✨
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.  - 6030 ✨
   
 #### 📝 BLOG POSTS
