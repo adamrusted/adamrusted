@@ -12,42 +12,35 @@ I've started taking part in the Dynamics 365 and Power Platform Community by joi
 ![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Strapi-2F2E8B.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### WORK STACK
 ![](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Power%20Platform-Canvas%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
-![](https://img.shields.io/badge/Power%20Platform-Model--Driven%20Apps-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
+![](https://img.shields.io/badge/Power%20Platform-%23eee.svg?style=for-the-badge&logo=power-apps&labelColor=742774&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Cloud%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&labelColor=0066FF&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Sales-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Marketing%20(Outbound)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 
 #### NEXT UP
-![](https://img.shields.io/badge/Dynamics%20365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Pages-A493E7.svg?style=for-the-badge&logo=power-pages&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=power-virtual-agents&logoColor=white)
 ![](https://img.shields.io/badge/Power%20Automate-Desktop%20Flows-EEE.svg?style=for-the-badge&logo=power-automate&labelColor=0066FF&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
-![](https://img.shields.io/badge/Dynamics%20365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Marketing%20(Real--time)-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Customer%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
+![](https://img.shields.io/badge/D365-Field%20Service-%23eee.svg?style=for-the-badge&logo=dynamics-365&labelColor=0B53CE&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### OBVIOUSLY
 ![](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### "Sunsetting" Tech (Working to move people away from this!)
+![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ###### Retired - I won't work on these any more!
 
 ### BADGE COLLECTOR
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/0e936abf-d5dc-49c4-9680-f56f6dea24e7 "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 
