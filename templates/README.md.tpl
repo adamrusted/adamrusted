@@ -83,10 +83,10 @@ badges_tag
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} ✨
   {{- end}}
   
-#### 📝 BLOG POSTS
+<!-- #### 📝 BLOG POSTS
 {{range rss "https://www.adamrusted.me/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{{- end}} -->
 
 #### 🤝🏻 FOLLOWED BY
 {{range followers 5}}
