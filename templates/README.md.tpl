@@ -21,6 +21,7 @@
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo-CD-CCC.svg?style=for-the-badge&logo=argo&logoColor=white&labelColor=EF7B4D)
 ![Dataverse](https://img.shields.io/badge/Dataverse-088142.svg?style=for-the-badge&logo=dataverse&logoColor=white)
 ![Diagrams.net](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
