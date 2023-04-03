@@ -8,7 +8,6 @@ Front-end developer & OSS enthusiast
 * 🖥️  See my portfolio at [adamrusted.me](http://adamrusted.me)
 * ✉️  You can contact me at [hello@adamrusted.me](mailto:hello@adamrusted.me)
 
-<a href="https://cloud-native.social/@rusty" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?query=followers_count&url=https%3A%2F%2Fcloud-native.social%2Fapi%2Fv1%2Faccounts%2F109327033055939732&logo=mastodon&style=for-the-badge&logoColor=white&color=6364FF&label=CLOUD-NATIVE.SOCIAL" /></a>
 <a href="https://mstdn.games/@rusty" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?query=followers_count&url=https%3A%2F%2Fmstdn.games%2Fapi%2Fv1%2Faccounts%2F109539634192483103&logo=mastodon&style=for-the-badge&logoColor=white&color=6364FF&label=MSTDN.GAMES" /></a>
 <a href="https://www.github.com/adamrusted" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adamrusted?logo=github&style=for-the-badge&logoColor=white&color=181717" /></a><a href="https://www.twitter.com/adamrusted" target="_blank" rel="noreferrer"><img
@@ -70,10 +69,10 @@ badges_tag
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} ✨
   {{- end}}
   
-#### 📝 Blog Posts
+<!--- #### 📝 Blog Posts
 {{range rss "https://www.adamrusted.me/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{{- end}} --->
 
 #### 🤝🏻 Followed By
 {{range followers 5}}
