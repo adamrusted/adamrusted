@@ -58,9 +58,6 @@ badges_tag
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows11)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-##
-
 ![Dynamics Customer Service](https://img.shields.io/badge/D365_Customer_Service-0B53CE?style=for-the-badge&logo=dynamics365)
 ![Dynamics Marketing](https://img.shields.io/badge/D365_Marketing-0B53CE?style=for-the-badge&logo=dynamics365)
 ![Dynamics Sales](https://img.shields.io/badge/D365_Sales-0B53CE?style=for-the-badge&logo=dynamics365)
