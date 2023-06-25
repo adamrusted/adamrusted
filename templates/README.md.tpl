@@ -8,11 +8,8 @@ Front-end developer & OSS enthusiast
 * 🖥️  See my portfolio at [adamrusted.me](http://adamrusted.me)
 * ✉️  You can contact me at [hello@adamrusted.me](mailto:hello@adamrusted.me)
 
-<a href="https://mstdn.games/@rusty" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?query=followers_count&url=https%3A%2F%2Fmstdn.games%2Fapi%2Fv1%2Faccounts%2F109539634192483103&logo=mastodon&style=for-the-badge&logoColor=white&color=6364FF&label=MSTDN.GAMES" /></a>
 <a href="https://www.github.com/adamrusted" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adamrusted?logo=github&style=for-the-badge&logoColor=white&color=181717" /></a><a href="https://www.twitter.com/adamrusted" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/adamrusted?logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2"
-/></a><a href="https://www.twitch.tv/adamrusted" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adamrusted?logo=github&style=for-the-badge&logoColor=white&color=181717" /></a><a href="https://www.twitch.tv/adamrusted" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/adamrusted?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&label=TWITCH+STATUS" /></a>
 
 ### Skills
