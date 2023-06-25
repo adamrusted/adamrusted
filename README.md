@@ -1,71 +1,18 @@
-Hi 👋 My name is Adam
-=====================
+## 👋 Hey, I'm Adam!
 
-Front-end developer & OSS enthusiast
-------------------------------------
+I am a Microsoft Dynamics 365 Functional Consultant 
 
-* 🌍  I'm based in Coventry, England
-* 🖥️  See my portfolio at [adamrusted.me](http://adamrusted.me)
-* ✉️  You can contact me at [hello@adamrusted.me](mailto:hello@adamrusted.me)
+[![](https://img.shields.io/badge/-@adamrusted-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
+[![](https://img.shields.io/badge/-@adamrusted-181717?style=for-the-badge&logo=github)](https://github.com/adamrusted)
+[![](https://img.shields.io/badge/-blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.adamrusted.me/)
 
-<a href="https://www.github.com/adamrusted" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adamrusted?logo=github&style=for-the-badge&logoColor=white&color=181717" /></a><a href="https://www.twitch.tv/adamrusted" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/adamrusted?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&label=TWITCH+STATUS" /></a>
+## 🎬 My Activities
 
-### Skills
+#### 📖 My latest blog posts
+- [Spotify Track of the Day in Power Automate](https://blog.adamrusted.me/track-of-the-day-power-automate) (1 year ago)
+- [Making your Marketing Emails More Personal](https://blog.adamrusted.me/customizing-emails-in-d365-marketing) (1 year ago)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Rusty#8438" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/adamrusted" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adamrusted" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.adamrusted.me/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/adamrusted" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/adamrusted" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/6949f8e9-c223-45a1-bac2-5aa2a5f26e4c "Microsoft Certified: Power Platform App Maker Associate")
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/b4acf85e-80fb-4f8c-93e6-77386b46d6fb "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
-<!--END_SECTION:badges-->
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/adamrusted"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-### Activity
-
-#### 🧑🏻‍💻 Working On
+#### 👷 I'm currently working on
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
 - [adamrusted/website](https://github.com/adamrusted/website) -  (1 month ago)
@@ -73,23 +20,81 @@ src="https://img.shields.io/twitch/status/adamrusted?logo=twitch&logoColor=white
 - [adamrusted/parcel-starter](https://github.com/adamrusted/parcel-starter) -  (3 months ago)
 - [ticket-app/frontend-2022](https://github.com/ticket-app/frontend-2022) -  (4 months ago)
 
-#### 📝 Blog Posts
+#### 🚀 Latest releases I contributed to
 
-- [Spotify Track of the Day in Power Automate](https://blog.adamrusted.me/track-of-the-day-power-automate) (1 year ago)
-- [Making your Marketing Emails More Personal](https://blog.adamrusted.me/customizing-emails-in-d365-marketing) (1 year ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), today) - SVG icons for popular brands
 
-#### ⭐ Starred
+#### ⭐ Latest repositories I starred
 
-- [cpvalente/ontime](https://github.com/cpvalente/ontime) - Time keeping for live events - 195 ✨
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 141237 ✨
-- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority - 3677 ✨
-- [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services - 284 ✨
-- [martynbristow/opensourcepos](https://github.com/martynbristow/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. - 2 ✨
+- [cpvalente/ontime](https://github.com/cpvalente/ontime) - Time keeping for live events - 195 stars
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 141241 stars
+- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority - 3677 stars
+- [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services - 284 stars
+- [martynbristow/opensourcepos](https://github.com/martynbristow/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. - 2 stars
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes - 15151 stars
+- [dbox/html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink) - :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - 306 stars
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. - 69644 stars
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.  - 9108 stars
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript. - 42329 stars
 
-#### 🤝🏻 Followed By
+#### 👥 Latest followers
 
 - [dirien](https://github.com/dirien) - Engin Diri
 - [glowingmanagement](https://github.com/glowingmanagement) - Josh Holmes
 - [MichaelAlestock](https://github.com/MichaelAlestock) - PowerShell Noob
 - [mhmyu](https://github.com/mhmyu) - yu
 - [matthiasgutsch](https://github.com/matthiasgutsch) - Matthias Gutsch
+
+#### 👨‍💻 Repositories I created recently
+
+- [adamrusted/stencils](https://github.com/adamrusted/stencils)
+- [adamrusted/parcel-starter](https://github.com/adamrusted/parcel-starter)
+- [adamrusted/website](https://github.com/adamrusted/website)
+
+
+## 🏗️ My Projects
+
+##
+
+## 🎓 Certificates & Trainings
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+## 💻 Technologies & Tools
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+##
+
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows11)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+##
+
+![Dynamics Customer Service](https://img.shields.io/badge/D365_Customer_Service-0B53CE?style=for-the-badge&logo=dynamics365)
+![Dynamics Marketing](https://img.shields.io/badge/D365_Marketing-0B53CE?style=for-the-badge&logo=dynamics365)
+![Dynamics Sales](https://img.shields.io/badge/D365_Sales-0B53CE?style=for-the-badge&logo=dynamics365)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+
+##
+
+![Scaleway](https://img.shields.io/badge/Scaleway-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+
+## ⚡ GitHub Stats
+
+![dirien](https://github-readme-stats.vercel.app/api?username=adamrusted&show_icons=true&count_private=true&theme=dracula)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adamrusted)
+[![GitHub followers](https://img.shields.io/github/followers/adamrusted.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
