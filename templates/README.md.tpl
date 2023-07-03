@@ -3,6 +3,7 @@
 I am a Microsoft Dynamics 365 Functional Consultant 
 
 [![](https://img.shields.io/badge/-@adamrusted-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
+[![](https://img.shields.io/badge/-@adamrusted@mstdn.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=ffffff)](https://twitter.com/adamrusted)
 [![](https://img.shields.io/badge/-@adamrusted-181717?style=for-the-badge&logo=github)](https://github.com/adamrusted)
 [![](https://img.shields.io/badge/-blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.adamrusted.me/)
 
