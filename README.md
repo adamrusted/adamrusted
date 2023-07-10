@@ -1,11 +1,13 @@
 ## 👋 Hey, I'm Adam!
 
-I am a Microsoft Dynamics 365 Functional Consultant 
+I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open Source projects in my spare time!
 
-[![](https://img.shields.io/badge/-@adamrusted-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
-[![](https://img.shields.io/badge/-@adamrusted@mstdn.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=ffffff)](https://mstdn.social/@adamrusted)
-[![](https://img.shields.io/badge/-@adamrusted-181717?style=for-the-badge&logo=github)](https://github.com/adamrusted)
-[![](https://img.shields.io/badge/-blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.adamrusted.me/)
+### How to contact me
+
+[![](https://cdn.simpleicons.com/twitter/_/white)](https://twitter.com/adamrusted)
+[![](https://cdn.simpleicons.com/mastodon/_/white)](https://mstdn.social/@adamrusted)
+[![](https://cdn.simpleicons.com/github/_/white)](https://github.com/adamrusted)
+[![](https://cdn.simpleicons.com/hashnode/_/white)](https://blog.adamrusted.me/)
  
 ## 🎬 My Activities
 
@@ -27,16 +29,16 @@ I am a Microsoft Dynamics 365 Functional Consultant
 
 #### ⭐ Latest repositories I starred
 
-- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform - 7160 stars
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform - 8413 stars
 - [cpvalente/ontime](https://github.com/cpvalente/ontime) - Time keeping for live events - 204 stars
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 143266 stars
-- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority - 3805 stars
-- [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services - 286 stars
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 143352 stars
+- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority - 3811 stars
+- [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services - 287 stars
 - [martynbristow/opensourcepos](https://github.com/martynbristow/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. - 2 stars
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes - 15217 stars
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes - 15223 stars
 - [dbox/html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink) - :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - 307 stars
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. - 70071 stars
-- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.  - 9302 stars
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. - 70101 stars
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.  - 9311 stars
 
 #### 👥 Latest followers
 
@@ -60,13 +62,6 @@ I am a Microsoft Dynamics 365 Functional Consultant
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/6949f8e9-c223-45a1-bac2-5aa2a5f26e4c "Microsoft Certified: Power Platform App Maker Associate")
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/b4acf85e-80fb-4f8c-93e6-77386b46d6fb "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
