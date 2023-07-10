@@ -1,11 +1,13 @@
 ## 👋 Hey, I'm Adam!
 
-I am a Microsoft Dynamics 365 Functional Consultant 
+I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open Source projects in my spare time!
 
-[![](https://img.shields.io/badge/-@adamrusted-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adamrusted)
-[![](https://img.shields.io/badge/-@adamrusted@mstdn.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=ffffff)](https://mstdn.social/@adamrusted)
-[![](https://img.shields.io/badge/-@adamrusted-181717?style=for-the-badge&logo=github)](https://github.com/adamrusted)
-[![](https://img.shields.io/badge/-blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.adamrusted.me/)
+### How to contact me
+
+[![](https://cdn.simpleicons.com/twitter/_/white)](https://twitter.com/adamrusted)
+[![](https://cdn.simpleicons.com/mastodon/_/white)](https://mstdn.social/@adamrusted)
+[![](https://cdn.simpleicons.com/github/_/white)](https://github.com/adamrusted)
+[![](https://cdn.simpleicons.com/hashnode/_/white)](https://blog.adamrusted.me/)
  
 ## 🎬 My Activities
 
