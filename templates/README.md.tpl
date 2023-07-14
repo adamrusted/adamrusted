@@ -12,7 +12,7 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-{{- range rss "https://blog.adamrusted.me/rss.xml" 6 }}
+{{- range rss "https://blog.adamrusted.me/rss.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
@@ -27,7 +27,7 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 {{- end}}
 
 #### ⭐ Latest repositories I starred
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
 {{- end}}
 
