@@ -58,12 +58,10 @@ badges_tag
 
 ##
 
-![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows11)
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Dynamics Customer Service](https://img.shields.io/badge/D365_Customer_Service-0B53CE?style=for-the-badge&logo=dynamics365)
-![Dynamics Marketing](https://img.shields.io/badge/D365_Marketing-0B53CE?style=for-the-badge&logo=dynamics365)
-![Dynamics Sales](https://img.shields.io/badge/D365_Sales-0B53CE?style=for-the-badge&logo=dynamics365)
+![Dynamics Customer Service](https://img.shields.io/badge/D365_CE-0B53CE?style=for-the-badge&logo=dynamics365)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
