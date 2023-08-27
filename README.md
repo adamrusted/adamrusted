@@ -17,7 +17,7 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
 - [adamrusted/.github](https://github.com/adamrusted/.github) -  (1 month ago)
 - [adamrusted/website](https://github.com/adamrusted/website) -  (1 month ago)
 - [adamrusted/parcel-starter](https://github.com/adamrusted/parcel-starter) -  (5 months ago)
@@ -25,15 +25,15 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 6 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 1 week ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript - 644 stars
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. - 55784 stars
-- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform - 10611 stars
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. - 55830 stars
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform - 10636 stars
 - [cpvalente/ontime](https://github.com/cpvalente/ontime) - Free, open-source time keeping for live events - 216 stars
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 147211 stars
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 147264 stars
 
 #### 👥 Latest followers
 
@@ -57,13 +57,6 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/6949f8e9-c223-45a1-bac2-5aa2a5f26e4c "Microsoft Certified: Power Platform App Maker Associate")
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/b4acf85e-80fb-4f8c-93e6-77386b46d6fb "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
