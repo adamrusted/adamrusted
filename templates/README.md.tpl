@@ -4,10 +4,10 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 
 ### How to contact me
 
-[<img src="https://cdn.simpleicons.org/x/_/white" width="20" />](https://x.com/adamrusted)
-[<img src="https://cdn.simpleicons.org/mastodon/_/white" width="20" />](https://mstdn.social/@adamrusted)
-[<img src="https://cdn.simpleicons.org/github/_/white" width="20" />](https://github.com/adamrusted)
-[<img src="https://cdn.simpleicons.org/hashnode/_/white" width="20" />](https://blog.adamrusted.me/)
+[<img src="https://img.shields.io/badge/adamrusted-black?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/adamrusted)
+[<img src="https://img.shields.io/badge/adamrusted%40mstdn.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />](https://mstdn.social/@adamrusted)
+[<img src="https://img.shields.io/badge/adamrusted-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/adamrusted)
+[<img src="https://img.shields.io/badge/blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://blog.adamrusted.me/)
  
 ## 🎬 My Activities
 
