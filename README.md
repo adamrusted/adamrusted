@@ -18,7 +18,7 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
 - [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website) - The website for Simple Icons: SVG icons for popular brands  (1 week ago)
 - [mondeja/simple-icons-website-rs](https://github.com/mondeja/simple-icons-website-rs) -  (1 week ago)
 - [adamrusted/si-website-next](https://github.com/adamrusted/si-website-next) -  (2 weeks ago)
@@ -26,16 +26,16 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) ([9.16.0](https://github.com/simple-icons/simple-icons-font/releases/tag/9.16.0), 2 days ago) - SVG icon font for popular brands
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 2 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) ([9.16.0](https://github.com/simple-icons/simple-icons-font/releases/tag/9.16.0), 3 days ago) - SVG icon font for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 3 days ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - 62789 stars
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 12666 stars
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. - 35629 stars
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - 62955 stars
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 12928 stars
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. - 35658 stars
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript - 649 stars
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. - 57080 stars
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. - 57115 stars
 
 #### 👥 Latest followers
 
@@ -61,13 +61,6 @@ I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open S
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/6949f8e9-c223-45a1-bac2-5aa2a5f26e4c "Microsoft Certified: Power Platform App Maker Associate")
-[![Microsoft Certified: Power Platform Functional Consultant Associate](https://images.credly.com/size/110x110/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png)](http://www.credly.com/badges/b4acf85e-80fb-4f8c-93e6-77386b46d6fb "Microsoft Certified: Power Platform Functional Consultant Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/26c06ca5-8fd3-43b3-8f0b-062e746dbfee "Microsoft Certified: Azure Fundamentals")
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52c364fb-3728-4d31-ac82-9621a7c86641 "Microsoft Certified: Azure AI Fundamentals")
-[![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/18f46909-0a5f-428e-8c66-0b40b53451e6 "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/74fc371d-5a40-4f73-8ded-a802d2696235 "Microsoft Certified: Power Platform Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
