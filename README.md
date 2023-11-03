@@ -43,7 +43,7 @@
 [simple-icons-npm-link]: https://www.npmjs.com/package/simple-icons
 [simple-icons-last-commit-badge]: https://img.shields.io/github/last-commit/adamrusted/simple-icons?style=flat-square
 [simple-icons-last-commit-link]: https://github.com/simple-icons/simple-icons/commits
-[simple-icons-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons?style=flat-square
+[simple-icons-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons?style=flat-square&logo=npm&logoColor=white
 [simple-icons-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons/verify.yml?branch=develop&logo=github&label=tests&style=flat-square
 [simple-icons-state-link]: https://github.com/simple-icons/simple-icons/actions?query=workflow%3ATest
 [simple-icons-website-github]: https://github.com/simple-icons/simple-icons-website
