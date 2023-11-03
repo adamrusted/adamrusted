@@ -1,68 +1,97 @@
-# 👋 Hey, I'm Adam!
+## 👋 Hey, I'm Adam!
 
-[![Bluesky][bluesky-badge]][bluesky-link] [![LinkedIn][linkedin-badge]][linkedin-link] [![Discord][discord-badge]][discord-link] [![Email][email-badge]][email-link] [![Gitlab][mastodon-badge]][mastodon-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
+I am a Microsoft Dynamics 365 Functional Consultant, who likes to work on Open Source projects in my spare time!
 
-## JavaScript
+### How to contact me
 
-| Name                                                | Release                                                                          | Activity                                                                                        | Popularity                                                                  | State                                                                         |
-| --------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [simple-icons][simple-icons-github]                 | [![Simple Icons][simple-icons-npm-badge]][simple-icons-npm-link]                 | [![Last Commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link]                 | [![NPM Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Test Results][simple-icons-state-badge]][simple-icons-state-link]          |
-| [simple-icons-website][simple-icons-website-github] | [![Simple Icons Website][simple-icons-website-badge]][simple-icons-website-link] | [![Last Commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] |                                                                             | [![State][simple-icons-website-state-badge]][simple-icons-website-state-link] |
+[<img src="https://img.shields.io/badge/%40adamrusted.bsky.social-0560ff?style=for-the-badge&logo=bluesky&logoColor=white" />](https://bsky.app/profile/adamrusted.bsky.social)
+[<img src="https://img.shields.io/badge/adamrusted-black?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/adamrusted)
+[<img src="https://img.shields.io/badge/adamrusted%40mstdn.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />](https://mstdn.social/@adamrusted)
+[<img src="https://img.shields.io/badge/adamrusted-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/adamrusted)
+[<img src="https://img.shields.io/badge/blog.adamrusted.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://blog.adamrusted.me/)
+ 
+## 🎬 My Activities
 
-## Rust
+#### 📖 My latest blog posts
+- [Spotify Track of the Day in Power Automate](https://blog.adamrusted.me/track-of-the-day-power-automate) (1 year ago)
+- [Making your Marketing Emails More Personal](https://blog.adamrusted.me/customizing-emails-in-d365-marketing) (1 year ago)
 
-| Name                                                      | Release                                                                                                   | Activity                                                                                              | Popularity | State                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
-| [simple-icons-website-rs][simple-icons-website-rs-github] | [![Simple Icons Website (Rust Implementation)][simple-icons-website-badge]][simple-icons-website-rs-link] | [![Last Commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] |            | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
+#### 👷 I'm currently working on
 
-<!-- LINKS -->
+- [adamrusted/test-pac](https://github.com/adamrusted/test-pac) -  (today)
+- [mondeja/simple-icons-website-rs](https://github.com/mondeja/simple-icons-website-rs) -  (1 day ago)
+- [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands (1 week ago)
+- [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website) - The website for Simple Icons: SVG icons for popular brands  (1 week ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 
-<!-- Header Links -->
+#### 🚀 Latest releases I contributed to
 
-[bluesky-badge]: https://img.shields.io/static/v1?label=%20&message=adamrusted.bsky.social&logo=bluesky&logoColor=white&color=0085ff&style=for-the-badge
-[bluesky-link]: https://bsky.app/profile/adamrusted.bsky.social
-[linkedin-badge]: https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge
-[linkedin-link]: https://www.linkedin.com/in/adamrusted/
-[discord-badge]: https://img.shields.io/static/v1?label=%20&message=_rustyy&logo=discord&logoColor=white&color=5865F2&style=for-the-badge
-[discord-link]: https://discordapp.com/users/280473140939849739
-[email-badge]: https://img.shields.io/static/v1?label=%20&message=hello@adamrusted.me&logo=microsoft-outlook&logoColor=white&color=0078D4&style=for-the-badge
-[email-link]: mailto:hello@adamrusted.me
-[mastodon-badge]: https://img.shields.io/static/v1?label=%20&message=@adamrusted@mstdn.social&logo=mastodon&logoColor=white&color=6364FF&style=for-the-badge
-[mastodon-link]: https://mstdn.social/@adamrusted
-[x-badge]: https://img.shields.io/static/v1?label=%20&message=adamrusted&logo=x&logoColor=white&color=000000&style=for-the-badge
-[x-link]: https://x.com/adamrusted
-[blog-badge]: https://img.shields.io/static/v1?label=%20&message=blog.adamrusted.me&logo=hashnode&logoColor=white&color=2962FF&style=for-the-badge
-[blog-link]: https://blog.adamrusted.me
+- [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) ([9.19.0](https://github.com/simple-icons/simple-icons-font/releases/tag/9.19.0), 1 week ago) - SVG icon font for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.19.0](https://github.com/simple-icons/simple-icons/releases/tag/9.19.0), 1 week ago) - SVG icons for popular brands
 
-<!-- END: Header Links -->
+#### ⭐ Latest repositories I starred
 
-<!-- JavaScript Links -->
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - 65078 stars
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 15503 stars
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. - 36014 stars
+- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript - 654 stars
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. - 58678 stars
 
-[simple-icons-github]: https://github.com/simple-icons/simple-icons
-[simple-icons-npm-badge]: https://img.shields.io/npm/v/simple-icons?style=flat-square&logo=npm&logoColor=white
-[simple-icons-npm-link]: https://www.npmjs.com/package/simple-icons
-[simple-icons-last-commit-badge]: https://img.shields.io/github/last-commit/adamrusted/simple-icons?style=flat-square
-[simple-icons-last-commit-link]: https://github.com/simple-icons/simple-icons/commits
-[simple-icons-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons?style=flat-square
-[simple-icons-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons/verify.yml?branch=develop&logo=github&label=tests&style=flat-square
-[simple-icons-state-link]: https://github.com/simple-icons/simple-icons/actions?query=workflow%3ATest
-[simple-icons-website-github]: https://github.com/simple-icons/simple-icons-website
-[simple-icons-website-badge]: https://img.shields.io/badge/dynamic/json?color=informational&label=icons&prefix=%20&logo=simpleicons&query=%24.icons.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2F_data%2Fsimple-icons.json&style=flat-square
-[simple-icons-website-link]: https://simpleicons.org
-[simple-icons-website-last-commit-badge]: https://img.shields.io/github/last-commit/adamrusted/simple-icons-website?style=flat-square
-[simple-icons-website-last-commit-link]: https://github.com/simple-icons/simple-icons-website/commits
-[simple-icons-website-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-website/verify.yml?branch=master&logo=github&label=tests&style=flat-square
-[simple-icons-website-state-link]: https://github.com/simple-icons/simple-icons-website/actions?query=workflow%3AVerify
+#### 👥 Latest followers
 
-<!-- END: JavaScript Links -->
+- [devtaw](https://github.com/devtaw) - Taw
+- [service-paradis](https://github.com/service-paradis) - Alexandre Paradis
+- [Neustradamus](https://github.com/Neustradamus) - Neustradamus
+- [mxpanf](https://github.com/mxpanf) - Maksim Panfilov
+- [bardiotmarin](https://github.com/bardiotmarin) - BleuCube
 
-<!-- Rust Links -->
+#### 👨‍💻 Repositories I created recently
 
-[simple-icons-website-rs-github]: https://github.com/mondeja/simple-icons-website-rs
-[simple-icons-website-rs-link]: https://wasm.simpleicons.org
-[simple-icons-website-rs-last-commit-badge]: https://img.shields.io/github/last-commit/adamrusted/simple-icons-website-rs?style=flat-square
-[simple-icons-website-rs-last-commit-link]: https://github.com/mondeja/simple-icons-website-rs/commits
-[simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
-[simple-icons-website-rs-state-link]: https://github.com/mondeja/simple-icons-website-rs/actions?query=workflow%3AVerify
+- [adamrusted/test-pac](https://github.com/adamrusted/test-pac)
+- [adamrusted/si-website-next](https://github.com/adamrusted/si-website-next)
+- [adamrusted/simple-icons-website-nextjs](https://github.com/adamrusted/simple-icons-website-nextjs)
+- [adamrusted/.github](https://github.com/adamrusted/.github)
+- [adamrusted/parcel-starter](https://github.com/adamrusted/parcel-starter)
 
-<!-- END: Rust Links -->
+
+## 🏗️ My Projects
+
+##
+
+## 🎓 Certificates & Trainings
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+## 💻 Technologies & Tools
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+##
+
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Dynamics Customer Service](https://img.shields.io/badge/D365_CE-0B53CE?style=for-the-badge&logo=dynamics365)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+
+##
+
+![Scaleway](https://img.shields.io/badge/Scaleway-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+
+## ⚡ GitHub Stats
+
+![dirien](https://github-readme-stats.vercel.app/api?username=adamrusted&show_icons=true&count_private=true&theme=dracula)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adamrusted)
+[![GitHub followers](https://img.shields.io/github/followers/adamrusted.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
