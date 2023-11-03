@@ -21,7 +21,7 @@
 
 [bluesky-badge]: https://img.shields.io/static/v1?label=%20&message=adamrusted.bsky.social&logo=bluesky&logoColor=white&color=0085ff&style=for-the-badge
 [bluesky-link]: https://bsky.app/profile/adamrusted.bsky.social
-[linkedin-badge]: https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge
+[linkedin-badge]: https://img.shields.io/static/v1?label=%20&message=Adam%20Rusted&logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge
 [linkedin-link]: https://www.linkedin.com/in/adamrusted/
 [discord-badge]: https://img.shields.io/static/v1?label=%20&message=_rustyy&logo=discord&logoColor=white&color=5865F2&style=for-the-badge
 [discord-link]: https://discordapp.com/users/280473140939849739
