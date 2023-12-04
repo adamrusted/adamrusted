@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Adam!
 
-[![firefish-badge]][firefish-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
+[![bento-badge]][bento-link] [![firefish-badge]][firefish-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
 
 ## JavaScript
 
@@ -19,6 +19,8 @@
 
 <!-- Header Links -->
 
+[bento-badge]: https://img.shields.io/static/v1?label=%20&message=bento.me/rustyy&logo=bento&logoColor=4b587c&color=fff&style=for-the-badge
+[bento-link]: https://bento.me/rustyy
 [firefish-badge]: https://img.shields.io/static/v1?label=%20&message=rusty@lethallava.land&logo=firefish&logoColor=F07A5B&color=F07A5B&labelColor=23232f&style=for-the-badge
 [firefish-link]: https://lethallava.land/@rusty
 [x-badge]: https://img.shields.io/static/v1?label=%20&message=@adamrusted&logo=x&logoColor=fff&color=000&style=for-the-badge
