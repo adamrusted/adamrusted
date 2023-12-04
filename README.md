@@ -1,37 +1,29 @@
 # 👋 Hey, I'm Adam!
 
-[![Bluesky][bluesky-badge]][bluesky-link] [![LinkedIn][linkedin-badge]][linkedin-link] [![Discord][discord-badge]][discord-link] [![Email][email-badge]][email-link] [![Gitlab][mastodon-badge]][mastodon-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
+[![firefish-badge]][firefish-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
 
 ## JavaScript
 
-| Name                                                | Release                                                                          | Activity                                                                                        | Popularity                                                                  | State                                                                         |
-| --------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [simple-icons][simple-icons-github]                 | [![Simple Icons][simple-icons-npm-badge]][simple-icons-npm-link]                 | [![Last Commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link]                 | [![NPM Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Test Results][simple-icons-state-badge]][simple-icons-state-link]          |
-| [simple-icons-website][simple-icons-website-github] | [![Simple Icons Website][simple-icons-website-badge]][simple-icons-website-link] | [![Last Commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] |                                                                             | [![State][simple-icons-website-state-badge]][simple-icons-website-state-link] |
+| Name | Release | Activity | Popularity | State |
+| --- | --- | --- | --- | --- |
+| [simple-icons][simple-icons-github] | [![Simple Icons][simple-icons-npm-badge]][simple-icons-npm-link] | [![Last Commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link] | [![NPM Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Test Results][simple-icons-state-badge]][simple-icons-state-link] |
+| [simple-icons-website][simple-icons-website-github] | [![Simple Icons Website][simple-icons-website-badge]][simple-icons-website-link] | [![Last Commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] | | [![State][simple-icons-website-state-badge]][simple-icons-website-state-link] |
 
 ## Rust
 
-| Name                                                      | Release                                                                                                   | Activity                                                                                              | Popularity | State                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
-| [simple-icons-website-rs][simple-icons-website-rs-github] | [![Simple Icons Website (Rust Implementation)][simple-icons-website-badge]][simple-icons-website-rs-link] | [![Last Commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] |            | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
+| Name | Release | Activity | Popularity | State |
+| --- | --- | --- | --- | --- |
+| [simple-icons-website-rs][simple-icons-website-rs-github] | [![Simple Icons Website (Rust Implementation)][simple-icons-website-badge]][simple-icons-website-rs-link] | [![Last Commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
 
 <!-- LINKS -->
 
 <!-- Header Links -->
 
-[bluesky-badge]: https://img.shields.io/static/v1?label=%20&message=adamrusted.bsky.social&logo=bluesky&logoColor=white&color=0085ff&style=for-the-badge
-[bluesky-link]: https://bsky.app/profile/adamrusted.bsky.social
-[linkedin-badge]: https://img.shields.io/static/v1?label=%20&message=Adam%20Rusted&logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge
-[linkedin-link]: https://www.linkedin.com/in/adamrusted/
-[discord-badge]: https://img.shields.io/static/v1?label=%20&message=_rustyy&logo=discord&logoColor=white&color=5865F2&style=for-the-badge
-[discord-link]: https://discordapp.com/users/280473140939849739
-[email-badge]: https://img.shields.io/static/v1?label=%20&message=hello@adamrusted.me&logo=microsoft-outlook&logoColor=white&color=0078D4&style=for-the-badge
-[email-link]: mailto:hello@adamrusted.me
-[mastodon-badge]: https://img.shields.io/static/v1?label=%20&message=@adamrusted@mstdn.social&logo=mastodon&logoColor=white&color=6364FF&style=for-the-badge
-[mastodon-link]: https://mstdn.social/@adamrusted
-[x-badge]: https://img.shields.io/static/v1?label=%20&message=adamrusted&logo=x&logoColor=white&color=000000&style=for-the-badge
+[firefish-badge]: https://img.shields.io/static/v1?label=%20&message=rusty@lethallava.land&logo=firefish&logoColor=F07A5B&color=F07A5B&labelColor=23232f&style=for-the-badge
+[firefish-link]: https://lethallava.land/@rusty
+[x-badge]: https://img.shields.io/static/v1?label=%20&message=@adamrusted&logo=x&logoColor=fff&color=000&style=for-the-badge
 [x-link]: https://x.com/adamrusted
-[blog-badge]: https://img.shields.io/static/v1?label=%20&message=blog.adamrusted.me&logo=hashnode&logoColor=white&color=2962FF&style=for-the-badge
+[blog-badge]: https://img.shields.io/static/v1?label=%20&message=blog.adamrusted.me&logo=hashnode&logoColor=2962FF&labelColor=white&color=2962FF&style=for-the-badge
 [blog-link]: https://blog.adamrusted.me
 
 <!-- END: Header Links -->
