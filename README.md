@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Adam!
 
-[![bento-badge]][bento-link] [![firefish-badge]][firefish-link] [![X][x-badge]][x-link] [![Blog][blog-badge]][blog-link]
+[![bento-badge]][bento-link] [![standardresume-badge]][standardresume-link]
 
 ## JavaScript
 
@@ -27,6 +27,8 @@
 [x-link]: https://x.com/adamrusted
 [blog-badge]: https://img.shields.io/static/v1?label=%20&message=blog.adamrusted.me&logo=hashnode&logoColor=2962FF&labelColor=white&color=2962FF&style=for-the-badge
 [blog-link]: https://blog.adamrusted.me
+[standardresume-badge]: https://img.shields.io/badge/standardresume.co%2Fr%2Fadamrusted-blue?style=for-the-badge&logo=standardresume&logoColor=2A3FFB&color=fff
+[standardresume-link]: https://standardresume.co/r/adamrusted
 
 <!-- END: Header Links -->
 
