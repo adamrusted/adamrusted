@@ -2,6 +2,20 @@
 
 [![bento-badge]][bento-link] [![standardresume-badge]][standardresume-link]
 
+## 3D Printing
+
+### Software
+
+![](https://img.shields.io/badge/Resin-Lychee%20Slicer%20Pro-d83d5a?style=for-the-badge&logo=lychee&logoColor=white)
+![](https://img.shields.io/badge/FDM-FlashPrint-000?style=for-the-badge&logo=flashforge&logoColor=white)
+
+### Printers
+![](https://img.shields.io/badge/Elegoo%20Saturn%203-1b49ff?style=for-the-badge&logo=elegoo&logoColor=white)
+![](https://img.shields.io/badge/Flashforge%20Adventurer%204-black?style=for-the-badge&logo=flashforge&logoColor=white)
+### Materials
+![](https://img.shields.io/badge/Phrozen%20Water--Washable%20Resin-Model%20Grey-lightgrey?style=for-the-badge&logo=phrozen&logoColor=white)
+![](https://img.shields.io/badge/eSun%20PLA%2B-Grey-lightgrey?style=for-the-badge&logo=esun&logoColor=white)
+
 ## JavaScript
 
 | Name | Release | Activity | Popularity | State |
