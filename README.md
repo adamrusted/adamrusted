@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Elegoo%20Saturn%203-1b49ff?style=for-the-badge&logo=elegoo&logoColor=white)
 ![](https://img.shields.io/badge/Flashforge%20Adventurer%204-black?style=for-the-badge&logo=flashforge&logoColor=white)
 ### Materials
+![](https://img.shields.io/badge/SUNLU%20High%20Precision-Red%20Wax-coral?style=for-the-badge&logo=sunlu&logoColor=white)
 ![](https://img.shields.io/badge/Phrozen%20Water--Washable%20Resin-Model%20Grey-lightgrey?style=for-the-badge&logo=phrozen&logoColor=white)
 ![](https://img.shields.io/badge/eSun%20PLA%2B-Grey-lightgrey?style=for-the-badge&logo=esun&logoColor=white)
 
